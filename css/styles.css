@@ -158,44 +158,46 @@ a {
 }
 
 #rus {
-    margin-bottom: 27px;
-    width: 389px;
-    height: 185px;
+    margin-bottom: 11px;
+    width: 247px;
+    margin-left: 193px;
+    height: 138px;
     border-radius: 20px;
 }
 
 #tos {
-    width: 320px;
-    height: 211px;
+    width: 345px;
+    height: 230px;
     border-radius: 20px;
-    margin-left: 69px;
+    margin-left: 16px;
 }
 
 #cof {
-    width: 302px;
-    height: 421px;
+    width: 277px;
+    height: 391px;
     border-radius: 20px;
-    margin-left: 39px;
+    margin-left: 21px;
 }
 
 #nit {
-    margin-left: 35px;
-    width: 400px;
-    height: 236px;
+    /* margin-left: 35px; */
+    width: 440px;
+    height: 243px;
     border-radius: 20px;
     
 }
 
 #chep {
     font-family: Montserrat;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 600;
     line-height: 20px;
     letter-spacing: 0.1em;
     text-align: left;
-    margin-left: 50px;
-    width: 426px;
-    margin-top: 38px;
+    margin-left: 26px;
+    width: 420px;
+
+    margin-top: 35px;
     color:#fff
 }
 
@@ -308,26 +310,29 @@ a {
 }
 
 .liel {
-    font-family: Montserrat;
-    font-size: 20px;
-    font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.1em;
-    text-align: left;
     color: #000;
-    margin-left: 30px;
-    width: 957px;
+    width: 908px;
     list-style-type: disc;
     margin-left: 61px;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.1em;
+    text-align: left;
 }
 
 #pdj {
-    margin-left: 30px;
-    margin-top: -5px;
+    margin-left: 60px;
+    margin-top: 12px;
+    height: 165px;
+    width: 191px;
 }
 
 #rew {
     padding-bottom: 0 !important;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .products {
@@ -414,7 +419,7 @@ a {
     letter-spacing: 0.1em;
     text-align: left;
     color: #000;
-    margin-top: 68px;
+    margin-top: 58px;
     margin-left: 46px;
     margin-right: 55px;
 }
@@ -427,7 +432,7 @@ a {
     letter-spacing: 0.1em;
     text-align: left;
     color: #000;
-    margin-top: 68px;
+    margin-top: 58px;
     margin-left: 21px;
 }
 
@@ -442,7 +447,7 @@ a {
 
 #vk {
     margin-left: -20px;
-    margin-top: -13px;
+    margin-top: -16px;
 }
 
 .col {
@@ -454,7 +459,7 @@ a {
 .col .a img {
     width: 60px;
     height: 56px;
-    margin-top: 3px;
+    margin-top: -13px;
     margin-top: 0;
 }
 
@@ -484,11 +489,12 @@ a {
 #phone {
     margin-top: 9px;
     margin-left: 221px;
+    padding-bottom: 30px;
 }
 
 #email {
     margin-left: 55px;
-    margin-top: 56px;
+    margin-top: 47px;
 }
 
 .colmn a {
