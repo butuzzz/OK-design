@@ -262,11 +262,15 @@
         letter-spacing: 0.1em;
         text-align: left;
         width: 250px;
-        margin-left: -20px;
+        margin-left: -30px;
+        margin-right: 10px;
     }
 
     .pr-list {
         margin-top: 20px;
+    }
+    .rcol {
+        width: 200;
     }
 
     .rcol h1 {
@@ -277,7 +281,7 @@
         letter-spacing: 0.1em;
         margin-top: 15px;
         margin-right: 20px;
-        width: 70px;
+        width: 80px;
         text-align: center;
         margin-left: -15px;
     }
@@ -297,26 +301,26 @@
 
     #button {
         font-family: Montserrat;
-        font-size: 9px;
+        font-size: 11px;
         font-weight: 800;
         line-height: 11px;
         letter-spacing: 0.1em;
         text-align: center;
         background: rgba(26, 76, 255, 1);
         height: auto;
-        width: auto;
+        width: 180px;
         padding-top: 7px;
         padding-bottom: 7px;
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
         border-radius: 20px;
         margin-top: 7px;
         margin-left: 0px;
-        width: 160px;
+        /* width: 160px; */
         color:#fff;
         transition: all 0.3s ease-in;
-        margin-top: 15px;
-        margin-left: -80px;
+        margin-top: 0px;
+        margin-left: -75px;
     }
 
     .products {
@@ -357,6 +361,7 @@
 
     .footer {
         height: 50px;
+        margin: 0;
     }
 
     .footer .container {

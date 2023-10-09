@@ -66,7 +66,11 @@ a {
     line-height: 20px;
     letter-spacing: 0.1em;
     text-align: left;
+    transition: all .3s ease-out;
+}
 
+.navbar-menu li a:hover {
+    transform: scale(1.06);
 }
 
 .navbar-brand {
@@ -435,6 +439,11 @@ a {
     color: #000;
     margin-top: 58px;
     margin-left: 21px;
+    transform: all 5s ease-out;
+}
+
+.footer .container .row a:hover{
+    transform: scale(1.01);
 }
 
 .footer .container .row .a img {
@@ -444,11 +453,21 @@ a {
 
 #tg {
     margin-left: 27px;
+    transition: all .3s ease-out;
+}
+
+#tg:hover{
+    transform: scale(1.025);    
 }
 
 #vk {
     margin-left: -20px;
     margin-top: -16px;
+    transition: all .3s ease-out;
+}
+
+#vk:hover{
+    transform: scale(1.025);    
 }
 
 .col {
