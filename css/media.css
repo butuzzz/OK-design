@@ -275,7 +275,7 @@
 
     .rcol h1 {
         font-family: Montserrat;
-        font-size: 14px;
+        font-size: 12px;
         font-weight: 800;
         line-height: 15px;
         letter-spacing: 0.1em;
@@ -301,7 +301,7 @@
 
     #button {
         font-family: Montserrat;
-        font-size: 11px;
+        font-size: 10px;
         font-weight: 800;
         line-height: 11px;
         letter-spacing: 0.1em;
@@ -328,16 +328,20 @@
     }
 
     #tg {
-        margin-left: 27px;
+        margin-left: -10px;
         width: 18px;
         height: 18px;
+        margin-top: 5px;
+        margin-right: 20px;
     }
     
     #vk {
-        margin-left: -20px;
-        margin-top: -100px;
         width: 18px;
         height: 18px;
+        margin: 0;
+        margin-left: -20px;
+        margin-right: 10px;
+        margin-top: 5px;
     }
 
     .footer .container .row h1 {
@@ -348,15 +352,16 @@
         letter-spacing: 0.1em;
         text-align: left;
         color: #000;
-        margin-top: 58px;
-        margin-left: 46px;
-        margin-right: 55px;
+        margin-top: 19px;
+        margin-left: 33px;
+        margin-right:70px;
         font-family: Montserrat;
         font-size: 9px;
         font-weight: 800;
         line-height: 11px;
         letter-spacing: 0.1em;
         text-align: left;
+        height: 10px;
     }
 
     .footer {
@@ -372,8 +377,49 @@
         padding-bottom: 0;
     }
 
-    .footer {
+    /* .footer {
         display: none;
+    } */
+
+    #rew {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .footer .container .row a {
+        font-family: Montserrat;
+        font-size: 10px;
+        font-weight: 600;
+        line-height: 29px;
+        letter-spacing: 0.1em;
+        text-align: left;
+        color: #000;
+        margin-top: 10px;
+        margin-left: 10px;
+        transform: all 5s ease-out;
+    }
+
+    .a {
+        height: 10px;
+        margin: 0 10px;
+    }
+
+    #email {
+        margin: 0;
+        padding: 0;
+        height: 25px;
+        font-size: 10px;
+        font-weight: 400; 
+    }
+    
+    #phone {
+        margin: 0;
+        padding: 0;
+        height: 25px;
+        font-size: 10px;
+        font-weight: 400;
+        padding-left: 80px;
+        margin-top: -5px;
     }
 }
 
